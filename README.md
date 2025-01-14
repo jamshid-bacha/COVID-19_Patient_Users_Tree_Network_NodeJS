@@ -19,6 +19,10 @@ The provided screenshot illustrates an example of the tree network:
 
 ![IMG-20210715-WA0017](https://github.com/user-attachments/assets/d60c37e5-e480-4169-836b-b8001c908bd0)
 
+<p float="left">
+        <img src="https://github.com/user-attachments/assets/d60c37e5-e480-4169-836b-b8001c908bd0" width="200" height="370" hspace="20" />
+</p>
+
 
 Nodes Representation: Each circle in the tree represents a user or contact, starting from the root node (index case) and branching out into layers of contacts.
 
