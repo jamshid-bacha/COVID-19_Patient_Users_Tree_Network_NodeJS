@@ -17,11 +17,7 @@ Scalability: The tree model can be extended to handle large datasets of contact 
 # Description of Results #
 The provided screenshot illustrates an example of the tree network:
 
-![IMG-20210715-WA0017](https://github.com/user-attachments/assets/d60c37e5-e480-4169-836b-b8001c908bd0)
-
-<p float="left">
-        <img src="https://github.com/user-attachments/assets/d60c37e5-e480-4169-836b-b8001c908bd0" width="600" height="600"/>
-</p>
+![IMG-20210715-WA0017](https://github.com/user-attachments/assets/a21f08aa-64f0-4bd7-96c3-e3ee91d3364a)
 
 
 Nodes Representation: Each circle in the tree represents a user or contact, starting from the root node (index case) and branching out into layers of contacts.
@@ -47,11 +43,12 @@ Nodes with more connections (like 89) highlight individuals who might have a hig
 
 The screenshot effectively visualizes how contact tracing data is structured and provides a clear understanding of the tree-like progression of potential COVID-19 spread.
 
+![IMG-20210715-WA0018](https://github.com/user-attachments/assets/21d3a81d-786d-465b-bdbc-52542da0490a)
 
-![IMG-20210715-WA0018](https://github.com/user-attachments/assets/a0a0860b-30d6-4602-a77b-3f7d93bda9e0)
+![IMG-20210719-WA0005](https://github.com/user-attachments/assets/ae5321d4-60ad-4d95-9ca4-20859c29e79e)
 
 
-![IMG-20210719-WA0005](https://github.com/user-attachments/assets/7098a89a-4858-403a-95dd-adcb5c4e500e)
+
 
 
 
