@@ -14,21 +14,30 @@ The provided screenshot illustrates an example of the tree network:
 
 ![IMG-20210715-WA0017](https://github.com/user-attachments/assets/d60c37e5-e480-4169-836b-b8001c908bd0)
 
+
 Nodes Representation: Each circle in the tree represents a user or contact, starting from the root node (index case) and branching out into layers of contacts.
 
 Edges: Lines connecting the nodes represent the direct contact between individuals.
 
 Hierarchical Levels:
 Level 1 contains the first direct contacts of the index case.
+
 Level 2 extends to the contacts of Level 1 individuals.
+
 This hierarchical structure enables identifying "superspreaders" (nodes with multiple branches) or isolated contacts.
 
 
-Numerical Labels: Each node is labeled with an identifier, such as "1" for the index case and subsequent numbers for their contacts. For example:
-Node 1 (the index case) connects to nodes 2, 4, 78, and 89.
+
+Numerical Labels: Each node is labeled with an identifier, such as "1" for the index case and subsequent numbers for their contacts. 
+
+For example: Node 1 (the index case) connects to nodes 2, 4, 78, and 89.
+
 Node 2 connects further to nodes 10 and 6, which lead to other nodes such as 155 and 12, respectively.
+
 Nodes with more connections (like 89) highlight individuals who might have a higher potential for spreading the virus.
+
 The screenshot effectively visualizes how contact tracing data is structured and provides a clear understanding of the tree-like progression of potential COVID-19 spread.
+
 
 ![IMG-20210715-WA0018](https://github.com/user-attachments/assets/a0a0860b-30d6-4602-a77b-3f7d93bda9e0)
 
