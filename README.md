@@ -4,10 +4,15 @@ The project focuses on simulating a tree-based network to trace COVID-19 contact
 Using a tree data structure, the project represents individuals as nodes and the relationships (contact events) as edges connecting these nodes. The root of the tree represents the index case, and branches represent the contact paths. This approach allows researchers or healthcare authorities to efficiently track, visualize, and manage the spread of infections in a structured manner.
 
 # Features #
+
 Contact Mapping: Traces and visualizes individuals' contact paths from the index case.
+
 Dynamic Representation: Provides an interactive or visual snapshot of how the virus spreads across the network.
+
 Data Insights: Helps in understanding the hierarchy of infection chains, potential superspreaders, and critical nodes in the contact network.
+
 Scalability: The tree model can be extended to handle large datasets of contact tracing.
+
 
 # Description of Results #
 The provided screenshot illustrates an example of the tree network:
